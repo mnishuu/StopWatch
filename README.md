@@ -2,6 +2,6 @@
 
 Click the below link to download the .apk file
 
-- <a href="/" download="app-debug.apk">Download</a>
+- <a href="/app-debug.apk" download>Download</a>
 
 
