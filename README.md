@@ -1,5 +1,5 @@
 # StopWatch
 
+<a href="/app-debug.apk" download>Download link</a>
 
-<button onclick="window.open('/app-debug.apk')">Download</button>
 
